@@ -18,4 +18,4 @@ def get_xmldata(pdf_path):
 
     
 
-list_of_xmldata=get_xmldata('C:/Users/Techforce/Downloads/01.Apr-18_GSTR3B.pdf')
+list_of_xmldata=get_xmldata('xyz.pdf')
