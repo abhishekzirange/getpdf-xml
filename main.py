@@ -18,6 +18,5 @@ def get_xmldata(pdf_path):
             xml_data_list.append(sub_ele.text)
     return xml_data_list
 
-    
 
 list_of_xmldata=get_xmldata('xyz.pdf')
