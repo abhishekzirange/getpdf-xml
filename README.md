@@ -1,8 +1,6 @@
 # getpdf-xml
 
 
-
-
 #installations
 
 
